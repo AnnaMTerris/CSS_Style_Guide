@@ -1,1 +1,19 @@
+.font-1 {
+    font-family: 'DM Serif Display', serif;
+}
 
+.font-3 {
+    font-family: 'EB Garamond', serif;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+h1 {
+    color: blue;
+}
